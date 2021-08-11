@@ -1,0 +1,17 @@
+{
+  "name": "tdd_with_mocha",
+  "version": "1.0.0",
+  "description": "testing with TDD principles using mocha and assert library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nicogamy",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  }
+}
